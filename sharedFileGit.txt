@@ -1,1 +1,3 @@
 This is an example file to show how multiple developers can work on the same project and on how all the relevant projects of a file can easily be shared and stored in an on line common depot repository
+
+This is a new line to experiment the new way of seeing differences
